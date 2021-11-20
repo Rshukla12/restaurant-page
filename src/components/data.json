@@ -1,0 +1,362 @@
+[
+    {
+        "id": 0,
+        "title": "URU Brewpark",
+        "img_src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmidfQ_ihLTZYKOOr_g4MUBbbIsw42Xdmzdw&usqp=CAU",
+        "categories": ["Continental", "Pizza", "Asian", "Desserts"],
+        "cost_for_one": 500,
+        "cost_for_two": 900,
+        "payment_methods": {
+            "card": true,
+            "cash": true,
+            "upi": true
+        },
+        "rating": 4.3,
+        "min": 50,
+        "delivery": 30,
+        "votes": 766,
+        "reviews": 512
+    },
+    {
+        "id": 1,
+        "title": "Pizza Zone",
+        "img_src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS450qGWRS--1pT0kxXjiahtUcKCsuTj80SW0d-DkurQor-SpWelOqtLHSa8vm-rzvZtw0&usqp=CAU",
+        "categories": ["Pizza", "Asian", "Desserts"],
+        "cost_for_one": 300,
+        "cost_for_two": 600,
+        "payment_methods": {
+            "card": false,
+            "cash": true,
+            "upi": false
+        },
+        "rating": 4.1,
+        "min": 570,
+        "delivery": 40,
+        "votes": 726,
+        "reviews": 312
+    },
+    {
+        "id": 2,
+        "title": "Pizza Hut",
+        "img_src": "https://www.tripsavvy.com/thmb/ED7Ka5uBO-7Kj6X6bkxbrTxa_xA=/400x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-913677156-3fca0dd4029849ab912cd48cfec4a4db.jpg",
+        "categories": ["Pizza"],
+        "cost_for_one": 100,
+        "cost_for_two": 200,
+        "payment_methods": {
+            "card": true,
+            "cash": true,
+            "upi": false
+        },
+        "rating": 4.6,
+        "min": 100,
+        "delivery": 20,
+        "votes": 1202,
+        "reviews": 813
+    },
+    {
+        "id": 3,
+        "title": "Con Fusion",
+        "img_src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlK4fzFq403LXvd8jy1hSWWreNyN0KHjoR4w&usqp=CAU",
+        "categories": ["Continental", "Pizza", "Asian", "Desserts"],
+        "cost_for_one": 800,
+        "cost_for_two": 1500,
+        "payment_methods": {
+            "card": true,
+            "cash": true,
+            "upi": false
+        },
+        "rating": 4.2,
+        "min": 200,
+        "delivery": 30,
+        "votes": 866,
+        "reviews": 612
+    },
+    {
+        "id": 4,
+        "title": "The Continental",
+        "img_src": "https://lh3.googleusercontent.com/fO_vMJ0vbKr4chtqWMvnL_0i1-Emb1rJDOT6SJc6_ZVwFp1YWGAT3NWEF8gwNWMRqEmrU77Ykz2V8ZtaOjGWE7XR6K6h=w1000",
+        "categories": ["Continental","Desserts"],
+        "cost_for_one": 1000,
+        "cost_for_two": 1900,
+        "payment_methods": {
+            "card": true,
+            "cash": false,
+            "upi": true
+        },
+        "rating": 4.7,
+        "min": 500,
+        "delivery": 40,
+        "votes": 1066,
+        "reviews": 712
+    },
+    {
+        "id": 5,
+        "title": "URU Brewpark 2",
+        "img_src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1S8k7bYP5_9jOU4sRxqoi89Ixhe6LF6TyjA&usqp=CAU",
+        "categories": ["Continental", "Pizza", "Asian", "Desserts"],
+        "cost_for_one": 600,
+        "cost_for_two": 1100,
+        "payment_methods": {
+            "card": false,
+            "cash": false,
+            "upi": true
+        },
+        "rating": 1.7,
+        "min": 200,
+        "delivery": 30,
+        "votes": 826,
+        "reviews": 412
+    },
+    {
+        "id": 6,
+        "title": "TGB",
+        "img_src": "https://curlytales.com/wp-content/uploads/2020/10/Mumbai-restaurants-1170x614.jpg",
+        "categories": ["Continental", "Asian", "Desserts"],
+        "cost_for_one": 600,
+        "cost_for_two": 1000,
+        "payment_methods": {
+            "card": true,
+            "cash": true,
+            "upi": false
+        },
+        "rating": 3.9,
+        "min": 200,
+        "delivery": 40,
+        "votes": 266,
+        "reviews": 112
+    },
+    {
+        "id": 7,
+        "title": "TOB",
+        "img_src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS821f2oUH8b3I6kQQ4_F8y8AFPoZIlb3J_ag&usqp=CAU",
+        "categories": ["Continental", "Pizza", "Desserts"],
+        "cost_for_one": 400,
+        "cost_for_two": 900,
+        "payment_methods": {
+            "card": true,
+            "cash": false,
+            "upi": false
+        },
+        "rating": 3.7,
+        "min": 70,
+        "delivery": 50,
+        "votes": 166,
+        "reviews": 72
+    },
+    {
+        "id": 8,
+        "title": "TGB 4",
+        "img_src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_KzptnkukT0CzWeIVMK7CXVT4WtnZwLcnHQ&usqp=CAU",
+        "categories": ["Continental", "Asian", "Desserts"],
+        "cost_for_one": 600,
+        "cost_for_two": 1000,
+        "payment_methods": {
+            "card": true,
+            "cash": true,
+            "upi": false
+        },
+        "rating": 3.9,
+        "min": 200,
+        "delivery": 40,
+        "votes": 266,
+        "reviews": 112
+    },
+    {
+        "id": 9,
+        "title": "TOB 4",
+        "img_src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_KzptnkukT0CzWeIVMK7CXVT4WtnZwLcnHQ&usqp=CAU",
+        "categories": ["Continental", "Pizza", "Desserts"],
+        "cost_for_one": 400,
+        "cost_for_two": 900,
+        "payment_methods": {
+            "card": true,
+            "cash": false,
+            "upi": false
+        },
+        "rating": 3.7,
+        "min": 70,
+        "delivery": 50,
+        "votes": 166,
+        "reviews": 72
+    },
+    {
+        "id": 10,
+        "title": "URU 2 Brewpark",
+        "img_src": "https://lp-cms-production.imgix.net/image_browser/Ithaa-Maldives.jpg?auto=format&fit=crop&sharp=10&vib=20&ixlib=react-8.6.4&w=850",
+        "categories": ["Continental", "Pizza"],
+        "cost_for_one": 200,
+        "cost_for_two": 300,
+        "payment_methods": {
+            "card": false,
+            "cash": true,
+            "upi": true
+        },
+        "rating": 2.3,
+        "min": 200,
+        "delivery": 20,
+        "votes": 66,
+        "reviews": 12
+    },
+    {
+        "id": 11,
+        "title": "Pizza Zone 2",
+        "img_src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Restaurant_N%C3%A4sinneula.jpg/220px-Restaurant_N%C3%A4sinneula.jpg",
+        "categories": ["Pizza", "Desserts"],
+        "cost_for_one": 600,
+        "cost_for_two": 1100,
+        "payment_methods": {
+            "card": false,
+            "cash": true,
+            "upi": false
+        },
+        "rating": 1.1,
+        "min": 170,
+        "delivery": 40,
+        "votes": 326,
+        "reviews": 212
+    },
+    {
+        "id": 12,
+        "title": "Pizza Hut 2",
+        "img_src": "https://images.livemint.com/img/2020/05/30/600x338/5c7d349e-b6c5-11e9-b019-a4f68f70ee78_1564936211309_1590848838571.jpg",
+        "categories": ["Pizza"],
+        "cost_for_one": 150,
+        "cost_for_two": 300,
+        "payment_methods": {
+            "card": true,
+            "cash": true,
+            "upi": false
+        },
+        "rating": 4.1,
+        "min": 100,
+        "delivery": 20,
+        "votes": 1302,
+        "reviews": 913
+    },
+    {
+        "id": 13,
+        "title": "Con 2 Fusion",
+        "img_src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkQeWhvHatuQ6NV90UTeJupM5YN4F7eWnQSg&usqp=CAU",
+        "categories": ["Asian", "Desserts"],
+        "cost_for_one": 900,
+        "cost_for_two": 1700,
+        "payment_methods": {
+            "card": true,
+            "cash": true,
+            "upi": false
+        },
+        "rating": 4.9,
+        "min": 500,
+        "delivery": 40,
+        "votes": 1266,
+        "reviews": 912
+    },
+    {
+        "id": 14,
+        "title": "The Continental 2",
+        "img_src": "https://resize.indiatvnews.com/en/resize/newbucket/715_-/2021/06/delhi-restaurants-pti1-1623679731.jpg",
+        "categories": ["Continental"],
+        "cost_for_one": 750,
+        "cost_for_two": 1400,
+        "payment_methods": {
+            "card": true,
+            "cash": false,
+            "upi": false
+        },
+        "rating": 4.8,
+        "min": 300,
+        "delivery": 10,
+        "votes": 1076,
+        "reviews": 812
+    },
+    {
+        "id": 15,
+        "title": "URU Brewpark 3",
+        "img_src": "https://static.toiimg.com/thumb/51076300.cms?resizemode=75&width=1200&height=900",
+        "categories": ["Continental", "Pizza", "Desserts"],
+        "cost_for_one": 400,
+        "cost_for_two": 600,
+        "payment_methods": {
+            "card": true,
+            "cash": true,
+            "upi": true
+        },
+        "rating": 1.4,
+        "min": 100,
+        "delivery": 40,
+        "votes": 926,
+        "reviews": 712
+    },
+    {
+        "id": 16,
+        "title": "TGB 2",
+        "img_src": "https://static.toiimg.com/thumb/msid-77277092,imgsize-584120,width-400,resizemode-4/77277092.jpg",
+        "categories": ["Continental", "Asian"],
+        "cost_for_one": 650,
+        "cost_for_two": 1200,
+        "payment_methods": {
+            "card": true,
+            "cash": false,
+            "upi": false
+        },
+        "rating": 3.7,
+        "min": 200,
+        "delivery": 30,
+        "votes": 366,
+        "reviews": 212
+    },
+    {
+        "id": 17,
+        "title": "TOB 2",
+        "img_src": "https://media.istockphoto.com/photos/two-empty-wine-glasses-sitting-in-a-restaurant-on-a-warm-sunny-picture-id1018141890?k=20&m=1018141890&s=612x612&w=0&h=uMDP00MMIhlwQE77EEcoelc2oSKBT_B6avaXqtxgiow=",
+        "categories": ["Continental", "Pizza"],
+        "cost_for_one": 200,
+        "cost_for_two": 400,
+        "payment_methods": {
+            "card": true,
+            "cash": false,
+            "upi": true
+        },
+        "rating": 3.5,
+        "min": 70,
+        "delivery": 30,
+        "votes": 266,
+        "reviews": 172
+    },
+    {
+        "id": 18,
+        "title": "TGB 3",
+        "img_src": "https://blog.dineout-cdn.co.in/blog/wp-content/uploads/2020/08/Capture-32-700x407.jpg",
+        "categories": ["Continental", "Asian", "Desserts"],
+        "cost_for_one": 600,
+        "cost_for_two": 1000,
+        "payment_methods": {
+            "card": true,
+            "cash": true,
+            "upi": false
+        },
+        "rating": 3.2,
+        "min": 200,
+        "delivery": 55,
+        "votes": 166,
+        "reviews": 102
+    },
+    {
+        "id": 19,
+        "title": "TOB 3",
+        "img_src": "https://www.oyorooms.com/travel-guide/wp-content/uploads/2019/05/Checking-out-some-of-Indias-most-incredible-restaurants-Image-1-Kaidi-Kitchen.jpg",
+        "categories": ["Continental", "Asian", "Pizza", "Desserts"],
+        "cost_for_one": 1200,
+        "cost_for_two": 2000,
+        "payment_methods": {
+            "card": true,
+            "cash": true,
+            "upi": true
+        },
+        "rating": 2.7,
+        "min": 100,
+        "delivery": 30,
+        "votes": 66,
+        "reviews": 32
+    }
+]
