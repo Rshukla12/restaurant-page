@@ -20,7 +20,7 @@ const RestaurantCard = ({data}) => {
                 <div className={style.centerBox}>
                     <h2 className={style.title}>{data.title}</h2>
                     <p className={style.belowMain}>{data.categories.join(", ")}</p>
-                    <p className={style.belowMain}>Cost &#8377;{data.cost_for_one} for one</p>
+                    <p className={style.belowMain}>Costs &#8377;{data.cost_for_one} for one</p>
                     <div className={style.meta}>
                         <p>Min &#8377;{data.min}</p>
                         <div className={style.dot}></div>
